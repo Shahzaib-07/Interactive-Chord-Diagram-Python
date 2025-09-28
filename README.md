@@ -50,9 +50,12 @@ app = chord_by_network_UI(A, networks, default_title="Dummy FC Chord")
 server = app.show(threaded=True, title="Interactive Chord Viewer")
 ```
 
+## fMRI Data Example
 ![My Tool Screenshot](/images/Chord1.PNG)
 ![My Tool Screenshot](/images/Chord2.PNG)
 
+## Gene Co-expression Data Example
+![My Tool Screenshot](/images/Gene_.PNG)
 
 Once launched, you can:
 - Adjust Min |FC| to filter out weak edges
